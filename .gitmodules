@@ -1,0 +1,3 @@
+[submodule "lib/DJIC610Controller"]
+	path = lib/DJIC610Controller
+	url = https://github.com/stanfordroboticsclub/DJIC610Controller.git
